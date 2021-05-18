@@ -1,2 +1,2 @@
 # Azubi-Assignment
-#sql statements
+# using sql statements to query a database
